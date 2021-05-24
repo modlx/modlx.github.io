@@ -8,14 +8,14 @@
     font-size: 20px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
     font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
     background-color: rgb(97, 149, 153);
-    background-image: linear-gradient(to bottom, rgba(24, 12, 65, 0.5), rgba(136, 136, 172, 0.5)), url("https://i1.sndcdn.com/artworks-000197975154-ckttac-t500x500.jpg");
+    background-image: url("https://cdn.discordapp.com/attachments/834084625868783626/846361910408380466/asta-nawpic-1.png");
     
     background-size: cover
     
    
     
 }
- 
+
     
   
   h1 {
@@ -62,7 +62,7 @@
 
 
 div {
-  color: rgb(0, 0, 0);
+  color: rgb(224, 224, 224);
  
 }
 .TN-t{
